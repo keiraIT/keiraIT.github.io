@@ -1,5 +1,5 @@
 # Ultrasonic Machine Learning Traffic Light Project
-This project ties an existing TensorFlow Lite Micro AI Model to an Arduino kit. It detects a people and allowed objects a the camera and makes the lights act accordingly. The general code changes the lights based on the sensor and its distance, and halts all potential traffic in case of a person or "people" being started. Some parts of the project were created using information from Youtube. If you are just starting out with circuits, I strongly encourage you to go to Tinkercad and experiment with the circuits there.
+This project ties an existing TensorFlow Lite AI Model to an Arduino kit. It detects a people and allowed objects a the camera and makes the lights act accordingly. The general code changes the lights based on the sensor and its distance, and halts all potential traffic in case of a person or "people" being started. Some parts of the project were created using information from Youtube. If you are just starting out with circuits, I strongly encourage you to go to Tinkercad and experiment with the circuits there.
 
 # Software Used
 For this project, I used:
